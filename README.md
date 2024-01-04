@@ -11,6 +11,7 @@
 </h2>
 
 <p align="center">
+    <img srt="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
     <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
     <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=Python&logoColor=blue" />
