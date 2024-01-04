@@ -11,16 +11,16 @@
 </h2>
 
 <p align="center">
-    <img srt="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
     <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
     <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=Python&logoColor=blue" />
     <img src="https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript" />
+    <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java" />
     <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js" />
     <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
     <img src="https://img.shields.io/badge/git-E44C30?style=flat-squar&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java" />
+    <img srt="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
 </p>
 <div align=center>
