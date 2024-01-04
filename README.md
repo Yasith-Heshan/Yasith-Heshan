@@ -20,7 +20,8 @@
     <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
     <img src="https://img.shields.io/badge/git-E44C30?style=flat-squar&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-    <img srt="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+    <img src="	https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
 </p>
 <div align=center>
